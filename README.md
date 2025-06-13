@@ -133,6 +133,7 @@ cd frontend
 npm install
 npm run dev
 
+Iniciar en el localhost:3001/login
 
 Rutas de la Aplicación:
 Ruta		Descripción				Protegida
